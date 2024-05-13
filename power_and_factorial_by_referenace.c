@@ -24,11 +24,7 @@ void calculate_power_fact(int userValue, float *power, float *fact)
     *power = userValue * userValue;
 
     *fact = 1;
-    while (userValue != 0) {
-        *fact *= userValue;
-        
-        userValue--;
+    for (int i = 1; i <= userValue; ++i) {
+            *fact *= i;
     }
-    
-
 }

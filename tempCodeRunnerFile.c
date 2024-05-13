@@ -1,1 +1,1 @@
-userValue
+strcpy

@@ -4,6 +4,9 @@
         "function_arguments_value_canging": "c",
         "cmath": "c",
         "*.tcc": "c",
-        "bit": "c"
+        "bit": "c",
+        "metric.h": "c",
+        "string.h": "c",
+        "typeinfo": "c"
     }
 }

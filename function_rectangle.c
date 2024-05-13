@@ -18,7 +18,7 @@ int main()
     scanf("%d", &width);
 
 
-    result = calculateArea(length, width); // Passing user inputs as "Actual Argumets"
+    result = calculateArea(length, width);  // Passing user inputs as "Actual Argumets"
     printf("The area of the rectangle is: %d\n", result);
 
 
