@@ -7,6 +7,8 @@
         "bit": "c",
         "metric.h": "c",
         "string.h": "c",
-        "typeinfo": "c"
-    }
+        "typeinfo": "c",
+        "HOSSAIN.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
